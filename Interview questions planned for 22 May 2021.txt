@@ -1,0 +1,56 @@
+1. Red Hat patching- RH Satellite, Repo down- What solution
+2. Bonding types - where to see type of bonding
+3. Booting process - Step 1.5
+4. VG Split, VG Merge, VG Export
+5. /root - LVM - Reduce it
+6. NFS - Hard mount and Soft mount- diff & adv
+7. crontab
+8. passwd break
+9. set hostname
+10. autofs
+11. acl
+12. find
+13. zip & tar, list files w/o unzipping
+14. / not in LV, how to extend online (growpart etc)
+15. samba sharing with AD integration
+16. limit CPU count for usage
+17. tcpdump, pcap etc
+18. top
+19. sar
+20. bonding/ teaming
+21. difference between Rhel 6/7
+22. diff b/w ext / xfs
+23. find-service levels
+24. last pkg installation history (rpm --last)
+25. LVM - Lv extend, LV reduce, pvmove
+26. diff - NTP / chrony
+27. iptables
+28. nice values
+29. awk
+30. sendmail , mailx
+31. repo creation
+32. yum-rerun broken transaction
+33. df -h (for diff users)
+34. inodes
+35. single user mode (passwd recovery)
+36. booting process
+37. fdsik / parted
+38. Cache clearing
+39. Lun addition, scanning (systool)
+40. OS Hardening
+41. shell scripting- $? - eq 0
+42. ulimits (soft, hard Limits)
+43. hugepages
+44. kickstart installation
+45. lsattr (immutable)
+46. ACL (get/set)
+47. pam auth
+48. fstab/ mtab
+49. ssh passwdless
+50. swapiness
+51. create rpm pkg
+52. stat
+53. enp0s10 naming of NIC, how to get eth naming
+54. XFS shrinking
+
+
