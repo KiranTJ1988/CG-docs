@@ -1,0 +1,31 @@
+CG:
+RACI mail
+Mocca
+Build Team contacts
+MIM / Flash
+BCM Test doc
+French Keyboard Layout
+Weekly Slide prep
+
+C:\Users\kthomasj\OneDrive - Capgemini\CG\Backup of Old Laptop Local folders\Downloads
+EXACC
+SGL SOP's
+sginfo
+
+
+PEPS:
+SGBD contacts
+SRI COntacts
+PSSIT VM Build
+N3+ Process
+CM teams
+Pilotage Team 
+Cisco CI Inv
+Excel "Liste des Middlewares SERVICE GUARD LINUX.xlsx" => SGL - Pkg-Instance name of DB's and IP of pkgs
+RedHat Satellite KT Doc
+Raid Device - label and mounting
+Openshift KT Doc
+Migration LVM vplex to PMAX-Db2
+PSI Procedure – Boot On San - Switch-Over-new
+RFCY-CABY process-sample
+

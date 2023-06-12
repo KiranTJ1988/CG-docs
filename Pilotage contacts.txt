@@ -1,0 +1,9 @@
+09.72.72.71.71
+Exploitation.Pilotage@ca-gip.fr
+
+01.42.95.95.60
+Silca_pilotage_open@ca-gip.fr
+Silca_Pilotage_Mainframe@ca-gip.fr
+Pilotage.CA-PS@ca-ps.com
+
+Managerial on-call: 01.42.95.54.54

@@ -1,0 +1,20 @@
+#!/bin/bash
+#set -x
+echo "Generation commandes mdadm"
+for ligne in `cat $1`
+do
+        OLD_WWN=`echo ${ligne}|awk -F";" '{print $1}' | tr '[:upper:]' '[:lower:]' `
+        NEW_WWN=`echo ${ligne}|awk -F";" '{print $2}' | tr '[:upper:]' '[:lower:]' `
+        OLD_DM=`multipath -ll| grep $OLD_WWN | cut -d" " -f3`
+        NEW_DM=`multipath -ll| grep $NEW_WWN | cut -d" " -f3`
+        MD_RAID=`cat /proc/mdstat |grep ^md | grep "${OLD_DM}\["| cut -d" " -f1 `
+        echo "mdadm --manage /dev/${MD_RAID} --add /dev/${NEW_DM} && mdadm --manage /dev/${MD_RAID} --fail /dev/${OLD_DM}"
+done
+ 
+echo "Generation commandes multipath"
+for ligne in `cat $1`
+do
+        OLD_WWN=`echo ${ligne}|awk -F";" '{print $1}'| tr '[:upper:]' '[:lower:]' `
+        NEW_WWN=`echo ${ligne}|awk -F";" '{print $2}'| tr '[:upper:]' '[:lower:]' `
+        echo "sed -i -e \"s/${OLD_WWN}/${NEW_WWN}/g\" /etc/multipath.conf"
+done

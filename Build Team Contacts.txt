@@ -1,0 +1,41 @@
+Alexandre Pollet alexandre.pollet@ca-gip.fr
+KETCHIAN Alfred (PRESTATAIRE CA-GIP) <alfred.ketchian-prestataire@ca-gip.fr>; 
+CAGIP-OPN-UNX-LINUX_BUILD <CAGIP-OPN-UNX-LINUX_BUILD@ca-gip.fr>; 
+ACHOUR Hichem (CA-GIP) <Hichem.ACHOUR@ca-gip.fr>; 
+SANOGO Badra (PRESTATAIRE CA-GIP) <badra.sanogo-prestataire@ca-gip.fr>; 
+AHMED SERHROUCHNI <ahmed.serhrouchni@ca-gip.fr>; 
+CHIRK-PRESTATAIRE Seng (CA-GIP) <Seng.CHIRK-prestataire@ca-gip.fr>; 
+FOUEMENA Davy (PRESTATAIRE CA-GIP) <davy.fouemena-prestataire@ca-gip.fr>; 
+GRIRI Slim (PRESTATAIRE CA-GIP) <slim.griri-prestataire@ca-gip.fr>; 
+THOIREY Philippe (CA-GIP) <philippe.thoirey@ca-gip.fr>; 
+DE-HAES Thierry (CA-GIP) <thierry.de-haes@ca-gip.fr>; 
+'EL MOUAK-PRESTATAIRE Abdelaziz (CA-GIP)' <abdelaziz.elmouak-prestataire@ca-gip.fr>; 
+GABEL Julien (CA-GIP) <julien.gabel@ca-gip.fr>; 
+PERICHET Franck (CA-GIP) <franck.perichet@ca-gip.fr>; 
+FACHINAN Francis (CA-GIP) <francis.fachinan@ca-gip.fr>; 
+ZIMMER Fabien (PRESTATAIRE CA-GIP) <Fabien.ZIMMER-ext@ca-gip.fr>; 
+DIDON Fabrice (CA-GIP) <fabrice.didon@ca-gip.fr>; 
+HENRY Pascal (CA-GIP) <pascal.henry@ca-gip.fr>; 
+HARYOULI Mostafa (PRESTATAIRE CA-GIP) <mostafa.haryouli-prestataire@ca-gip.fr>; 
+BATAILLE Yohan (PRESTATAIRE CA-GIP) <Yohan.BATAILLE-ext@ca-gip.fr>; 
+CACHE Thibaut (PRESTATAIRE CA-GIP) <Thibaut.CACHE-ext@ca-gip.fr>; 
+CASTAGNET Florian (CA-GIP) <Florian.CASTAGNET@ca-gip.fr>; 
+LE DUC Bruno (PRESTATAIRE CA-GIP) <bruno.b.leduc-prestataire@ca-gip.fr>; 
+PIRON Karine (CA-GIP) <karine.piron@ca-gip.fr>; 
+DEBBAGH Ali (PRESTATAIRE CA-GIP) <ali.debbagh-prestataire@ca-gip.fr>; 
+BEN RHOUMA Alaa (PRESTATAIRE CA-GIP) <alaa.benrhouma-prestataire@ca-gip.fr>; 
+BANGARIGADU Yershki (CA-GIP) <yershki.bangarigadu@ca-gip.fr>; 
+POIRIER Jerome (PRESTATAIRE CA-GIP) <jerome.poirier-prestataire@ca-gip.fr>; 
+LEGRAS Jean-Baptiste (PRESTATAIRE CA-GIP) <jean-baptiste.legras-prestataire@ca-gip.fr>; 
+HIBTI Tarik (PRESTATAIRE CA-GIP) <tarik.hibti-prestataire@ca-gip.fr>; 
+LUKA Jean (PRESTATAIRE CA-GIP) <jean.luka-prestataire@ca-gip.fr>; 
+CLAIR Benjamin (PRESTATAIRE CA-GIP) <benjamin.clair-prestataire@ca-gip.fr> 
+ 
+ALLIER Olivier (PRESTATAIRE CA-GIP) <olivier.allier-prestataire@ca-gip.fr>; 
+CAZENAVE Cedric (PRESTATAIRE CA-GIP) <cedric.cazenave-prestataire@ca-gip.fr>; 
+
+
+PEREIRA Sandy (PRESTATAIRE CA-GIP) <sandy.pereira-prestataire@ca-gip.fr>; 
+DU TEIL Emilia (CA-GIP) <emilia.duteil@ca-gip.fr>; 
+
+LIOZON, Pierre-François [EXTERNAL] <pierre-francois.liozon@ca-gip.fr>;

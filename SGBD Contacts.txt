@@ -1,0 +1,10 @@
+SGBD contacts 
+=========== MYSQL=====================
+Jonathan.GIBERT-ext@ca-gip.fr
+Laurent.VALLOIS@ca-gip.fr
+mohamadi.zeba-prestataire@ca-gip.fr
+
+DB2====================
+Jean-Christophe.BOS@ca-gip.fr
+Sebastien.FARGES@ca-gip.fr
+Thomas.REIDON-ext@ca-gip.fr 

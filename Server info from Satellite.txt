@@ -1,0 +1,6 @@
+
+[root@lp999sat0101 sysadm]# hammer --csv --csv-separator ';' host list --search "name~l_002" --fields "Name,Operating System" > list.csv 
+
+It is more efficient and you can use wilcards.
+
+See 15.1.2: https://access.redhat.com/documentation/en-us/red_hat_satellite/6.9/html/administering_red_hat_satellite/chap-red_hat_satellite-administering_red_hat_satellite-searching_and_bookmarking 
